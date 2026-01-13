@@ -6,7 +6,7 @@ CAMERA_FPS = 30
 AUTOEXPOSURE_FRAMES = 15
 
 # Scanner Hardware
-SERIAL_PORT = 'COM3'
+SERIAL_PORT = "/dev/serial/by-id/usb-FTDI_FT232R_USB_UART_A1069F78-if00-port0"
 BAUDRATE = 115200
 
 # Marker Setup (WICHTIG!)
